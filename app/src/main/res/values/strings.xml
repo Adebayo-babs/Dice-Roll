@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="roll">Roll</string>
+    <string name="textview">TextView</string>
+    <string name="_2">2</string>
+    <string name="diceroll_tostring">diceRoll.toString()</string>
+    <string name="diceroll_tostring2">diceRoll.toString()</string>
+</resources>
